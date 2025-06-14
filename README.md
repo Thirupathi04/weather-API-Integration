@@ -34,19 +34,4 @@ As someone passionate about web development and real-world applications of machi
 - **JavaScript (ES6+)** – DOM manipulation & API calls  
 - **OpenWeatherMap API** – live weather data source  
 
----
 
-## 🌐 Live Demo
-
-> Want to try it out?  
-You can run this project locally, or check it out live (if deployed):  
-**[Live Site](https://yourusername.github.io/weather-dashboard/)**  
-_(Replace with your actual GitHub Pages URL)_
-
----
-
-## 📸 Preview
-
-![Screenshot](https://drive.google.com/file/d/1rpHmRFccIAtwBjqS0lIuVU2Kw4WV-kGY/view?usp=sharing)
-
----
