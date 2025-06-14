@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>🌦 My Weather Buddy</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="container">
+    <h1>☀️ Hello! I'm Your Weather Buddy</h1>
+    <p>Curious about the weather? Just type in your city below and I’ll fetch the latest update for you!</p>
+    <img 
+      src="https://www.creativefabrica.com/wp-content/uploads/2021/03/31/weather-icon-illustration03-Graphics-10205167-1.jpg" alt="Weather illustration" width="120"/>
+    <input type="text" id="cityInput" placeholder="E.g., New York, Tokyo, Paris..." />
+    <button onclick="getWeather()">Check Weather</button>
+    <div id="weatherResult" class="weather-card"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
